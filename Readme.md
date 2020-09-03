@@ -25,3 +25,7 @@ permite que ele seja o último elemento, o elemento central, ou qualquer outro.
 Durante o processo recursivo, os elementos vão sendo ordenados na própria lista, não exigindo nenhum processamento nesta
 
 etapa.
+
+
+# A explicação acima foi adaptada do livro "Estrutura de Dados - Algoritmos, Análise de Complexidade em Java, C/C++" das #
+# autoras Ana Fernanda Gomes Ascensio e Graziela Santos de Araújo                                                        #
