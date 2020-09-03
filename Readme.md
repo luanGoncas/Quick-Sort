@@ -27,5 +27,4 @@ Durante o processo recursivo, os elementos vão sendo ordenados na própria list
 etapa.
 
 
-# A explicação acima foi adaptada do livro "Estrutura de Dados - Algoritmos, Análise de Complexidade em Java, C/C++" das #
-# autoras Ana Fernanda Gomes Ascensio e Graziela Santos de Araújo                                                        #
+# A explicação acima foi adaptada do livro "Estrutura de Dados - Algoritmos, Análise de Complexidade em Java, C/C++" das autoras Ana Fernanda Gomes Ascensio e Graziela Santos de Araújo                                                        #
