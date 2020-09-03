@@ -1,4 +1,4 @@
-# ---------- Projeto e Análise de Algoritmos -------------------- ALGORITMO DE ORDENAÇÃO QUICK SORT -------------------- #
+# ---------- Projeto e Análise de Algoritmos --------------- ALGORITMO DE ORDENAÇÃO QUICK SORT --------------- #
 
 Neste algoritmo de ordenação o vetor é particionado em dois por meio de um procedimento recursivo. Essa divisão ocorre
 
